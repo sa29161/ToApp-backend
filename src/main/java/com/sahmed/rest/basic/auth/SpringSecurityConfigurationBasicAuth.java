@@ -1,4 +1,4 @@
-package com.sahmed.rest.webservices.restfulwebservices.basic.auth;
+/*package com.sahmed.rest.basic.auth;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.HttpMethod;
@@ -22,4 +22,4 @@ public class SpringSecurityConfigurationBasicAuth extends WebSecurityConfigurerA
 		//http.formLogin();
 		.httpBasic();
 	}
-}
+}*/
